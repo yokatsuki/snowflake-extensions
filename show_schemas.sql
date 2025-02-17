@@ -1,2 +1,1 @@
-use role sysadmin;
-SHOW DATABASES;
+SHOW SCHEMAS;
