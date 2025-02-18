@@ -1,1 +1,1 @@
-SHOW SCHEMAS;
+SHOW databases;
